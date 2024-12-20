@@ -31,4 +31,4 @@ result.subscribe(x => console.log(x));
 ---
 
 
-to check commit message
+remoev the commit message

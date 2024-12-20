@@ -23,13 +23,14 @@
             "id": "4038a7a53fc1372c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Main Notes/filtering operator.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "filtering operator"
             }
           }
         ],
@@ -191,10 +192,10 @@
   },
   "active": "4038a7a53fc1372c",
   "lastOpenFiles": [
-    "Main Notes/Transformation operator.md",
     "Main Notes/RxJs Operators- Creation & Joins.md",
-    "Main Notes/RxJs introduction.md",
     "Main Notes/filtering operator.md",
+    "Main Notes/Transformation operator.md",
+    "Main Notes/RxJs introduction.md",
     "Tags/Rxjs.md",
     "Pasted image 20241220183428.png",
     "Pasted image 20241220182523.png",
