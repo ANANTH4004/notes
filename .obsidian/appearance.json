@@ -2,5 +2,6 @@
   "cssTheme": "Border",
   "theme": "obsidian",
   "textFontFamily": "Consolas",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas"
 }
