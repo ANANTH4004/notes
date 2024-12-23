@@ -1,4 +1,4 @@
-#### 🗓️ Date: 16-12-2024 | 🏷️ Tags: 
+#### 🗓️ Date: <% tp.date.now("YYYY-MM-DD") %> | 🏷️ Tags: 
 ---
  
 
