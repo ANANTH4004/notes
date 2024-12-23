@@ -2,3 +2,5 @@
 [[RxJs introduction]]
 [[RxJs Operators- Creation & Joins]]
 [[Transformation operator]]
+[[filtering operator]]
+[[Error Handling operator]]
