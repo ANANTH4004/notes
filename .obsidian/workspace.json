@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b74acb2e2a3289bf",
+            "id": "4030a08c9b482e58",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -136,15 +136,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Notes/RxJs introduction.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of RxJs introduction"
+              "title": "Outline"
             }
           },
           {
-            "id": "a5bcadf82ee3fff3",
+            "id": "927bcf26942128c4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -158,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,14 +169,26 @@
       "zk-prefixer:Create new unique note": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5bcadf82ee3fff3",
+  "active": "4030a08c9b482e58",
   "lastOpenFiles": [
+    "Main Notes/filtering operator.md",
     "Tags/Rxjs.md",
     "Tags/Learning.md",
+    "Angular18.md",
+    "Tags/Angular 18.md",
+    "2025-01-03.md",
+    "Untitled 1.canvas",
+    "Main Notes/Advanced JS topic.md",
+    "Untitled.canvas",
+    "Main Notes/JavaScript Basics Interview Question.md",
+    "Tags/Interview.md",
+    "inter.md",
+    "Main Notes/Angular 18 Intro.md",
+    "Main Notes/Angular18.md",
+    "Tags/Angular.md",
     "Templates/Learning notes.md.md",
     "Main Notes/newnorw.md",
     "Main Notes/Transformation operator.md",
@@ -186,7 +196,6 @@
     "Main Notes/dvd.md",
     "Main Notes/RxJs introduction.md",
     "Main Notes/samplwrwst.md",
-    "Main Notes/filtering operator.md",
     "Main Notes/Error Handling operator.md",
     "Pasted image 20241223125748.png",
     "Pasted image 20241223125649.png",
@@ -198,24 +207,14 @@
     "Pasted image 20241220181108.png",
     "Pasted image 20241220180824.png",
     "Pasted image 20241220175949.png",
-    "Tags/Angular.md",
     "Observable.md",
     "Main Notes/AWS.md",
     "Tags/AWS.md",
     "Main Notes/test notes.md",
     "Main Notes/AWS eventbrodge.md",
     "Main Notes/Untitled",
-    "TH9 ASKDJBVAHDVBASJKBV.md",
-    "Main Notes/AWS WORKIN.md",
-    "Main Notes/template.md",
-    "Main Notes/template test.md",
-    "Main Notes/Template test.md",
     "Tags",
     "Main Notes",
-    "Untitled.canvas",
-    "Templates",
-    "2024-12-16.md",
-    "202412162042.md",
-    "Welcome.md"
+    "Templates"
   ]
 }

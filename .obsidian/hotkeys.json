@@ -14,5 +14,13 @@
       ],
       "key": "PageDown"
     }
+  ],
+  "canvas:new-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
