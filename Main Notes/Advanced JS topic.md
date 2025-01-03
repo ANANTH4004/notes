@@ -5,4 +5,5 @@
 - Changes in the copied do not affect the original object.
 - **JSON.parse(JSON.stringify(original))**
 - **let copied = structuredClone(original)**
+small change
 
