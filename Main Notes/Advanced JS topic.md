@@ -1,4 +1,4 @@
-#### 🗓️ Date: 2025-01-03 | 🏷️ Tags: 
+#### 🗓️ Date: 2025-01-03 | 🏷️ Tags: [[JavaScript]]
 ---
 ## Deep Copy
 - create completely new and independent array or an Object, duplication all the nested objects. 
@@ -32,3 +32,37 @@
 > const value = NaN;
   console.log(value === NaN); // false
   console.log(Object.is(value, NaN)); // true
+
+---
+
+# Closure and lexical scope
+
+**Lexical Scope** means **where a variable is declared in your code** determines where it can be accessed.
+
+- Inner functions can access variables of their parent functions because they are written inside the parent function.
+- Even if the parent function finishes running, the inner function still remembers the variables.
+```
+function outer() {
+  const message = "Hello from outer!"; // Variable in outer function
+  function inner() {
+    console.log(message); // Accessing outer function's variable
+  }
+  inner(); // Calling the inner function
+}
+outer(); // Output: Hello from outer!
+```
+
+A **closure** happens when a function **remembers** the variables from its parent function, even after the parent function has finished executing.
+#### **Key Idea of Closure**
+- If you **return a function** from another function, the returned function keeps access to the variables in the parent function.
+>function outerFunction() {
+  let count = 0; // Variable in the outer function
+  return function innerFunction() {
+    count++; // Inner function changes the outer variable
+    console.log(`Count is: ${count}`);
+  };
+}
+const counter = outerFunction(); // outerFunction runs and returns innerFunction
+counter(); // Count is: 1
+counter(); // Count is: 2
+counter(); // Count is: 3

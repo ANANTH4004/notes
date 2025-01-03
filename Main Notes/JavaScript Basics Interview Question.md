@@ -1,4 +1,4 @@
-#### 🗓️ Date: 2025-01-03 | 🏷️ Tags: [[Interview]] 
+#### 🗓️ Date: 2025-01-03 | 🏷️ Tags: [[JavaScript]]
 ---
  
 1 Primitive Types: 
