@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0f356c7140f8e218",
+            "id": "71993cf0e8e7e3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "d53777850ebfac2e",
@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,19 +187,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f356c7140f8e218",
+  "active": "71993cf0e8e7e3bf",
   "lastOpenFiles": [
-    "Main Notes/Angular 18 Intro.md",
+    "snippets/card.css.md",
+    "snippets/cards.css.md",
+    "Main Notes/Advanced JS topic.md",
+    "snippets",
     "Main Notes/filtering operator.md",
+    "Main Notes/JavaScript Basics Interview Question.md",
+    "Main Notes/Angular 18 Intro.md",
     "Tags/Rxjs.md",
     "Tags/Learning.md",
     "Angular18.md",
     "Tags/Angular 18.md",
     "2025-01-03.md",
     "Untitled 1.canvas",
-    "Main Notes/Advanced JS topic.md",
     "Untitled.canvas",
-    "Main Notes/JavaScript Basics Interview Question.md",
     "Tags/Interview.md",
     "inter.md",
     "Main Notes/Angular18.md",
@@ -225,8 +228,6 @@
     "Observable.md",
     "Main Notes/AWS.md",
     "Tags/AWS.md",
-    "Main Notes/test notes.md",
-    "Main Notes/AWS eventbrodge.md",
     "Main Notes/Untitled",
     "Tags",
     "Main Notes",

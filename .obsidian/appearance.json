@@ -3,5 +3,8 @@
   "theme": "obsidian",
   "textFontFamily": "Consolas",
   "monospaceFontFamily": "Consolas",
-  "interfaceFontFamily": "Consolas"
+  "interfaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "card"
+  ]
 }
