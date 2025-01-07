@@ -20,21 +20,7 @@
             }
           },
           {
-            "id": "71993cf0e8e7e3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/JavaScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "ab75f133d2b61a4c",
+            "id": "cc55f9e7beba768d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,24 +187,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab75f133d2b61a4c",
+  "active": "cc55f9e7beba768d",
   "lastOpenFiles": [
     "Tags/JavaScript.md",
     "Main Notes/JavaScript Basics Interview Question.md",
+    "Tags/Interview.md",
     "Main Notes/Advanced JS topic.md",
+    "Main Notes/filtering operator.md",
+    "Main Notes/Angular 18 Intro.md",
+    "Angular18.md",
     "snippets/card.css.md",
     "snippets/cards.css.md",
     "snippets",
-    "Main Notes/filtering operator.md",
-    "Main Notes/Angular 18 Intro.md",
     "Tags/Rxjs.md",
     "Tags/Learning.md",
-    "Angular18.md",
     "Tags/Angular 18.md",
     "2025-01-03.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Tags/Interview.md",
     "inter.md",
     "Main Notes/Angular18.md",
     "Tags/Angular.md",
