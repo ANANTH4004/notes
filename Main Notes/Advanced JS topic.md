@@ -1,5 +1,4 @@
 #### 🗓️ Date: 2025-01-03 | 🏷️ Tags: [[JavaScript]]
-
 # LINK: [questions](https://www.interviewbit.com/javascript-interview-questions/#difference-between-exec-and-test-methods-in-javascript)
 ---
 ## Ways to create Objects in Javascript:

@@ -20,17 +20,20 @@
             }
           },
           {
-            "id": "cc55f9e7beba768d",
+            "id": "13b65557eca9eac7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Main Notes/Advanced JS topic.md",
-                "mode": "source",
-                "source": false
+                "file": "Interview.canvas",
+                "viewState": {
+                  "x": -1502.5,
+                  "y": -1077,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Advanced JS topic"
+              "icon": "lucide-layout-dashboard",
+              "title": "Interview"
             }
           }
         ],
@@ -187,12 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc55f9e7beba768d",
+  "active": "13b65557eca9eac7",
   "lastOpenFiles": [
-    "Tags/JavaScript.md",
-    "Main Notes/JavaScript Basics Interview Question.md",
-    "Tags/Interview.md",
+    "Interview.canvas",
+    "Main Notes/JavaScript Basics.md",
     "Main Notes/Advanced JS topic.md",
+    "Tags/JavaScript.md",
+    "Tags/Interview.md",
     "Main Notes/filtering operator.md",
     "Main Notes/Angular 18 Intro.md",
     "Angular18.md",
@@ -227,7 +231,6 @@
     "Pasted image 20241220180824.png",
     "Pasted image 20241220175949.png",
     "Observable.md",
-    "Main Notes/AWS.md",
     "Main Notes/Untitled",
     "Tags",
     "Main Notes",
