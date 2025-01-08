@@ -192,6 +192,10 @@ var bikeDetails = {
 		displayDetails: function(registrationNumber,brandName){
 		return this.name+ " , "+ "bike details: "+ registrationNumber + " , " + brandName; } 
 		} 
-		var person1 = {name: "Vivek"}; var detailsOfPerson1 = bikeDetails.displayDetails.bind(person1, "TS0122", "Bullet"); // Binds the displayDetails function to the person1 object detailsOfPerson1(); //Returns Vivek, bike details: TS0122, Bullet
+		var person1 = {name: "Vivek"}; 
+		var detailsOfPerson1 = bikeDetails.displayDetails.bind(person1, "TS0122", "Bullet"); // Binds the displayDetails function to the person1 object detailsOfPerson1(); //Returns Vivek, bike details: TS0122, Bullet
 ```
-
+---
+# Event Bubbling:
+- Event bubbling is a machanism in javascript where an event triggered on a child element propagates(bubble up) the event to its parent till root of the document. this allows parent element to react on the chid event.
+---

@@ -20,15 +20,15 @@
             }
           },
           {
-            "id": "13b65557eca9eac7",
+            "id": "5be97493c641efce",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Interview.canvas",
                 "viewState": {
-                  "x": -1502.5,
-                  "y": -1077,
+                  "x": -2142.5,
+                  "y": -1816,
                   "zoom": -1
                 }
               },
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,11 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13b65557eca9eac7",
+  "active": "5be97493c641efce",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Main Notes/Advanced JS topic.md",
     "Interview.canvas",
     "Main Notes/JavaScript Basics.md",
-    "Main Notes/Advanced JS topic.md",
     "Tags/JavaScript.md",
     "Tags/Interview.md",
     "Main Notes/filtering operator.md",
@@ -207,8 +209,6 @@
     "Tags/Learning.md",
     "Tags/Angular 18.md",
     "2025-01-03.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "inter.md",
     "Main Notes/Angular18.md",
     "Tags/Angular.md",
