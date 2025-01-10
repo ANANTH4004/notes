@@ -28,7 +28,7 @@
                 "file": "Interview.canvas",
                 "viewState": {
                   "x": -2142.5,
-                  "y": -1816,
+                  "y": -2188,
                   "zoom": -1
                 }
               },
@@ -37,17 +37,15 @@
             }
           },
           {
-            "id": "b42553974b3bd895",
+            "id": "88a8f88a3b8cccb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Main Notes/Angular Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20250109184314.png"
               },
-              "icon": "lucide-file",
-              "title": "Angular Basics"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250109184314"
             }
           }
         ],
@@ -82,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "call",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,21 +199,28 @@
       "zk-prefixer:Create new unique note": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b42553974b3bd895",
+  "active": "88a8f88a3b8cccb6",
   "lastOpenFiles": [
+    "Interview.canvas",
+    "Main Notes/Angular Basics.md",
+    "Tags/Interview.md",
+    "Tags/Angular.md",
+    "Images/Pasted image 20250109184314.png",
+    "Images/Pasted image 20250109183554.png",
+    "Images/Pasted image 20250109183549.png",
+    "Images/Pasted image 20250109175228.png",
+    "Images/Pasted image 20250109161125.png",
+    "Images",
     "Pasted image 20250109113507.png",
     "Pasted image 20250108185428.png",
-    "Main Notes/Angular Basics.md",
-    "Interview.canvas",
     "Tags/Learning.md",
-    "Tags/Angular.md",
     "Angular18.md",
     "Main Notes/Angular 18 Intro.md",
     "Tags/Angular 18.md",
-    "Tags/Interview.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Main Notes/Advanced JS topic.md",
@@ -240,12 +245,6 @@
     "Pasted image 20241223125748.png",
     "Pasted image 20241223125649.png",
     "Pasted image 20241223125559.png",
-    "Pasted image 20241223125516.png",
-    "Pasted image 20241220183428.png",
-    "Pasted image 20241220182523.png",
-    "Pasted image 20241220181724.png",
-    "Pasted image 20241220181108.png",
-    "Pasted image 20241220180824.png",
     "Main Notes/Untitled",
     "Tags",
     "Main Notes",
