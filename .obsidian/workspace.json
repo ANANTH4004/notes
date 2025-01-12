@@ -37,15 +37,18 @@
             }
           },
           {
-            "id": "88a8f88a3b8cccb6",
+            "id": "5f8aa8cc6f8d43a5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250109184314.png"
+                "file": "Main Notes/Open source contribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250109184314"
+              "icon": "lucide-file",
+              "title": "Open source contribution"
             }
           }
         ],
@@ -199,12 +202,18 @@
       "zk-prefixer:Create new unique note": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88a8f88a3b8cccb6",
+  "active": "5f8aa8cc6f8d43a5",
   "lastOpenFiles": [
+    "Main Notes/tailwind css intro.md",
+    "Main Notes/Open source contribution.md",
+    "Main Notes/RxJs Operators- Creation & Joins.md",
+    "Tags/Rxjs.md",
+    "Main Notes/Error Handling operator.md",
+    "Main Notes/filtering operator.md",
+    "Images/Pasted image 20241220115510.png",
     "Interview.canvas",
     "Main Notes/Angular Basics.md",
     "Tags/Interview.md",
@@ -215,8 +224,8 @@
     "Images/Pasted image 20250109175228.png",
     "Images/Pasted image 20250109161125.png",
     "Images",
-    "Pasted image 20250109113507.png",
-    "Pasted image 20250108185428.png",
+    "Images/Pasted image 20250109113507.png",
+    "Images/Pasted image 20250108185428.png",
     "Tags/Learning.md",
     "Angular18.md",
     "Main Notes/Angular 18 Intro.md",
@@ -226,25 +235,19 @@
     "Main Notes/Advanced JS topic.md",
     "Main Notes/JavaScript Basics.md",
     "Tags/JavaScript.md",
-    "Main Notes/filtering operator.md",
     "snippets/card.css.md",
     "snippets/cards.css.md",
     "snippets",
-    "Tags/Rxjs.md",
     "2025-01-03.md",
     "inter.md",
     "Main Notes/Angular18.md",
     "Templates/Learning notes.md.md",
     "Main Notes/newnorw.md",
     "Main Notes/Transformation operator.md",
-    "Main Notes/RxJs Operators- Creation & Joins.md",
     "Main Notes/dvd.md",
     "Main Notes/RxJs introduction.md",
-    "Main Notes/samplwrwst.md",
-    "Main Notes/Error Handling operator.md",
-    "Pasted image 20241223125748.png",
-    "Pasted image 20241223125649.png",
-    "Pasted image 20241223125559.png",
+    "Images/Pasted image 20241223125748.png",
+    "Images/Pasted image 20241223125649.png",
     "Main Notes/Untitled",
     "Tags",
     "Main Notes",
