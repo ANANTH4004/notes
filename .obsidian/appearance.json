@@ -1,7 +1,7 @@
 {
   "cssTheme": "Border",
   "theme": "obsidian",
-  "textFontFamily": "Consolas",
+  "textFontFamily": "Consolas,Cascadia Mono",
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Consolas",
   "enabledCssSnippets": [
