@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/1h60bpjf#VLii+TDnwe7JDD/c8Ei6irmPYYjI8Slv50IyeTzAW3E
+share_updated: 2025-01-19T15:21:47+05:30
+---
 ```
 import { CommonModule, isPlatformBrowser } from '@angular/common';
 
