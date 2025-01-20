@@ -20,18 +20,18 @@
             }
           },
           {
-            "id": "aba3d54a4d71cac9",
+            "id": "d8c322c2c397b1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codes/P-Tabs.md",
+                "file": "Main Notes/Angular Basics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P-Tabs"
+              "title": "Angular Basics"
             }
           }
         ],
@@ -188,11 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d26e9a8640ea6a73",
+  "active": "d8c322c2c397b1f3",
   "lastOpenFiles": [
+    "Codes/P-Tabs.md",
     "TypeScript/Types in TypeScript.md",
     "TypeScript/Introduction to TypeScript.md",
-    "Codes/P-Tabs.md",
     "Main Notes/JavaScript Basics.md",
     "Tags/Learning.md",
     "Main Notes/Open source contribution.md",
