@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "adca27657d5a4a64",
+            "id": "d8c322c2c397b1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#signal",
+                "query": "symbol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d26e9a8640ea6a73",
+  "active": "d8c322c2c397b1f3",
   "lastOpenFiles": [
     "Main Notes/Angular Basics.md",
     "conflict-files-obsidian-git.md",
@@ -199,11 +199,12 @@
     "Tags/TypeScript.md",
     "Codes/P-Tabs.md",
     "TypeScript/Introduction to TypeScript.md",
+    "Main Notes/JavaScript Basics.md",
     "Tags/Learning.md",
+    "Main Notes/Open source contribution.md",
     "Tags/Interview.md",
     "Tags/JavaScript.md",
     "TypeScript",
-    "Main Notes/Open source contribution.md",
     "Codes",
     "Main Notes/tailwind css intro.md",
     "Main Notes/RxJs Operators- Creation & Joins.md",
@@ -226,12 +227,13 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Main Notes/Advanced JS topic.md",
-    "Main Notes/JavaScript Basics.md",
     "snippets/card.css.md",
     "snippets/cards.css.md",
     "snippets",
     "2025-01-03.md",
     "inter.md",
+    "Main Notes/Angular18.md",
+    "Templates/Learning notes.md.md",
     "Images/Pasted image 20241223125748.png",
     "Images/Pasted image 20241223125649.png",
     "Main Notes/Untitled",
