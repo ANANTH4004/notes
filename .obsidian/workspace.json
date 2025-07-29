@@ -25,12 +25,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -170,16 +170,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "c805653ef59fb485",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
           }
         ],
         "currentTab": 4
@@ -202,9 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbc9cb57f83dfe51",
+  "active": "d8c322c2c397b1f3",
   "lastOpenFiles": [
     "Data Structures/Stack.md",
+    "New folder",
     "Untitled.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -250,7 +241,6 @@
     "Images/Pasted image 20241223125748.png",
     "Images/Pasted image 20241223125649.png",
     "Main Notes/Untitled",
-    "Tags",
-    "Main Notes"
+    "Tags"
   ]
 }

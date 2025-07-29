@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "share-note",
-  "github-copilot"
+  "share-note"
 ]
