@@ -1,0 +1,31 @@
+/* Preview Mode */
+.markdown-preview-view pre code {
+  line-height: 1.2 !important;
+  padding: 0.25em 0.5em !important;
+  margin: 0 !important;
+  display: block;
+  max-height: 250px;
+  overflow-y: auto;
+  white-space: pre;
+}
+
+/* Editing Mode (Live Preview) */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  line-height: 1.5 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Fix background spacing that might create a visual gap */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock .HyperMD-codeblock-bg {
+  padding: 0 !important;
+  margin: 0 !important;
+  line-height: 1.5 !important;
+}
+
+/* Ensure inner tokens don’t add spacing */
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock span {
+  line-height: 1.2 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}

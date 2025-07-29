@@ -23,15 +23,14 @@
             "id": "d8c322c2c397b1f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Main Notes/Angular Basics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Angular Basics"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -54,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,17 +107,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/RxJs introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RxJs introduction"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/RxJs introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RxJs introduction"
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,7 +139,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -152,7 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
@@ -166,13 +170,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c805653ef59fb485",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +202,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8c322c2c397b1f3",
+  "active": "dbc9cb57f83dfe51",
   "lastOpenFiles": [
+    "Data Structures/Stack.md",
+    "Untitled.canvas",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Main Notes/Advanced JS topic.md",
+    "Data Structures",
     "Main Notes/Angular Basics.md",
     "conflict-files-obsidian-git.md",
     "TypeScript/Types in TypeScript.md",
@@ -202,17 +234,9 @@
     "Main Notes/JavaScript Basics.md",
     "Tags/Learning.md",
     "Main Notes/Open source contribution.md",
-    "Tags/Interview.md",
-    "Tags/JavaScript.md",
     "TypeScript",
     "Codes",
-    "Main Notes/tailwind css intro.md",
-    "Main Notes/RxJs Operators- Creation & Joins.md",
-    "Tags/Rxjs.md",
-    "Main Notes/Error Handling operator.md",
-    "Main Notes/filtering operator.md",
     "Images/Pasted image 20241220115510.png",
-    "Tags/Angular.md",
     "Images/Pasted image 20250109184314.png",
     "Images/Pasted image 20250109183554.png",
     "Images/Pasted image 20250109183549.png",
@@ -221,24 +245,12 @@
     "Images",
     "Images/Pasted image 20250109113507.png",
     "Images/Pasted image 20250108185428.png",
-    "Angular18.md",
-    "Main Notes/Angular 18 Intro.md",
-    "Tags/Angular 18.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "Main Notes/Advanced JS topic.md",
-    "snippets/card.css.md",
-    "snippets/cards.css.md",
     "snippets",
-    "2025-01-03.md",
-    "inter.md",
-    "Main Notes/Angular18.md",
-    "Templates/Learning notes.md.md",
     "Images/Pasted image 20241223125748.png",
     "Images/Pasted image 20241223125649.png",
     "Main Notes/Untitled",
     "Tags",
-    "Main Notes",
-    "Templates"
+    "Main Notes"
   ]
 }
