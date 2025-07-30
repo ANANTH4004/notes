@@ -20,17 +20,18 @@
             }
           },
           {
-            "id": "d8c322c2c397b1f3",
+            "id": "8f7b7dcafe7fbf48",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Data Structures/Stack.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Stack"
             }
           }
         ],
@@ -176,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8c322c2c397b1f3",
+  "active": "8f7b7dcafe7fbf48",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Generate table of contents.md",
     "Data Structures/Stack.md",
     "New folder",
     "Untitled.canvas",
@@ -201,7 +203,6 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
