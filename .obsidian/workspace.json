@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Stack.md",
-                "mode": "preview",
+                "file": "Data Structures/Tree.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Tree"
             }
           }
         ],
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,8 +196,10 @@
   },
   "active": "8f7b7dcafe7fbf48",
   "lastOpenFiles": [
-    "copilot-custom-prompts/Generate table of contents.md",
+    "Images/Pasted image 20250901230247.png",
     "Data Structures/Stack.md",
+    "Data Structures/Tree.md",
+    "copilot-custom-prompts/Generate table of contents.md",
     "New folder",
     "Untitled.canvas",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -225,7 +228,6 @@
     "TypeScript/Introduction to TypeScript.md",
     "Main Notes/JavaScript Basics.md",
     "Tags/Learning.md",
-    "Main Notes/Open source contribution.md",
     "TypeScript",
     "Codes",
     "Images/Pasted image 20241220115510.png",
