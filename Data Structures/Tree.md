@@ -83,3 +83,10 @@ A **tree** is a hierarchical data structure consisting of nodes.
 - **Depth → distance from root**
     
 - **Height → distance to deepest leaf**
+
+---
+**Delete Element from the Binary Tree**
+
+1. Scenario 1: Node to be deleted is a *leaf Node*.
+2. Scenario 2: Node to be deleted has *ONE CHILD NODE*
+3. Scenario 3: Node to be deleted has *TWO CHILD NODE* --> 

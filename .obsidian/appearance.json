@@ -5,7 +5,7 @@
   "monospaceFontFamily": "Consolas",
   "interfaceFontFamily": "Consolas",
   "enabledCssSnippets": [
-    "card",
-    "fix-code-spacing"
+    "fix-code-spacing",
+    "flashcard"
   ]
 }
