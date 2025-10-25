@@ -1,4 +1,4 @@
-
+#DSA  [[DSA]]
 - A tree is a hierarchical data structure that consists of nodes connected by edges
 
 - A tree is a non-linear data structure, compared to arrays, linked lists, stacks and queues which are linear data structures.

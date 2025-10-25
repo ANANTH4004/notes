@@ -1,3 +1,5 @@
+[[DSA]]  #DSA 
+
 1. The stack data structure is a sequential collection of elements that follows the principle of **Last In First Out (LIFO)**
 2. The last element inserted into the stack is first element to be removed
 3. A stack of plates. The last plate placed on top of the stack is also the first plateremoved from the stack.

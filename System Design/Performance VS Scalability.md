@@ -1,7 +1,7 @@
 ## ⚖️ Scalability vs Performance — System Design Perspective
 
 **Date:** 2025-10-25  
-**Tags:** #system-design #scalability #performance #architecture #backend
+**Tags:** #system-design #scalability #performance  [[SystemDesign]]
 
 ---
 ### 🚀 Core Difference
@@ -31,10 +31,8 @@ Performance is about **optimization**, while scalability is about **adaptation**
     - Fix: Optimize indexes, caching, or query plans.
         
 2. **Scalability Issue**
-    
     - The API works fine for 1,000 users but collapses at 100,000 users.
     - Fix: Add more servers, introduce load balancing, shard the database, or decouple services.
-        
 
 ---
 

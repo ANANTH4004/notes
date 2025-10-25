@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"454a007577be98ca","type":"link","url":"https://www.interviewbit.com/javascript-interview-questions/#difference-between-exec-and-test-methods-in-javascript","x":-2920,"y":-2480,"width":595,"height":486,"color":"4"},
-		{"id":"a3e6e69c2f6d1015","type":"link","url":"https://github.com/lydiahallie/javascript-questions","x":-2120,"y":-2400,"width":480,"height":443}
-	],
-	"edges":[
-		{"id":"dbd62400dfb2c76f","fromNode":"454a007577be98ca","fromSide":"right","toNode":"a3e6e69c2f6d1015","toSide":"left"}
-	]
-}
